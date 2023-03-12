@@ -1,4 +1,4 @@
-#Recursive fibonacci algorithm using two variables
+#Recursive fibonacci algorithm
 
 _MAX_N = 100
 _MIN_N = 1
